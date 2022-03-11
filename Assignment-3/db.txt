@@ -1,0 +1,7 @@
+
+hello=salam
+hi=slm
+book=ketab
+how=chegone
+folan=bisar
+bisar=folan
